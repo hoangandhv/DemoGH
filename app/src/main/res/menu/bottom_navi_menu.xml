@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/trangchu"
+            android:title="trangchu"
+            android:icon="@drawable/tabhome"/>
+    <item
+            android:id="@+id/lichsu"
+            android:title="lichsu"
+            android:icon="@drawable/tab2_active"/>
+    <item
+            android:id="@+id/hotro"
+            android:title="hotro"
+            android:icon="@drawable/tab3_active"/>
+    <item
+            android:id="@+id/game"
+            android:title="game"
+            android:icon="@drawable/tab4_active"/>
+    <item
+            android:id="@+id/taikhoan"
+            android:title="taikhoan"
+            android:icon="@drawable/tab5_active"/>
+</menu>
