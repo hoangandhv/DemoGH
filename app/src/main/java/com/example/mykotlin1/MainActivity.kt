@@ -46,9 +46,6 @@ class MainActivity : AppCompatActivity() {
         replaceFragment(trangchu_Fragment())
         bottomNavigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener)
         bottomNavigation.setItemIconTintList(null);
-        //val menu = bottomNavigation.menu;
-        //menu.findItem(R.id.trangchu).setIcon(R.drawable.tabhome);
-
     }
     private fun replaceFragment(fragment: Fragment){
         val fragmentTransaction = supportFragmentManager.beginTransaction()

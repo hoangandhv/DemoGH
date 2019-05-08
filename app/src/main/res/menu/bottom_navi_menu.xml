@@ -7,17 +7,17 @@
     <item
             android:id="@+id/lichsu"
             android:title="lichsu"
-            android:icon="@drawable/tab2_active"/>
+            android:icon="@drawable/tablichsu"/>
     <item
             android:id="@+id/hotro"
             android:title="hotro"
-            android:icon="@drawable/tab3_active"/>
+            android:icon="@drawable/tabhotro"/>
     <item
             android:id="@+id/game"
             android:title="game"
-            android:icon="@drawable/tab4_active"/>
+            android:icon="@drawable/tabgame"/>
     <item
             android:id="@+id/taikhoan"
             android:title="taikhoan"
-            android:icon="@drawable/tab5_active"/>
+            android:icon="@drawable/tabtaikhoan"/>
 </menu>

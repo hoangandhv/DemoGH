@@ -24,7 +24,6 @@
             android:id="@+id/bottomNavigation"
             app:menu="@menu/bottom_navi_menu"
             android:background="#F7F7F7"
-            app:itemIconTint="@null"
             app:itemIconSize="@android:dimen/app_icon_size"
             app:labelVisibilityMode="unlabeled"
             android:layout_width="match_parent"
